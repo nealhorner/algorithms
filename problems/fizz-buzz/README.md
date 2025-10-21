@@ -25,3 +25,6 @@ Output: ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13"
 
 ## Solution
 The solution should have time complexity of O(n).
+
+## LeetCode
+[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
